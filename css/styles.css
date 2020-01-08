@@ -1,0 +1,15 @@
+/* Линии для визуализации */
+body * {
+    outline: 1px dotted red;
+    outline-offset: -1px;
+    position: relative;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+
+
+
