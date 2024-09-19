@@ -1,5 +1,6 @@
 /* Линии для визуализации */
-body * {
+/* почему-то лайтбокс криво отображает фото, если отключить линии, то все ок */
+/*body * {
     outline: 1px dotted red;
     outline-offset: -1px;
     position: relative;
@@ -8,7 +9,7 @@ body * {
 img {
   display: block;
   max-width: 100%;
-}
+}*/
 
 
 
